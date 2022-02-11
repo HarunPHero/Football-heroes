@@ -1,0 +1,24 @@
+.header{
+    background-image: linear-gradient(to right,rgb(68, 68, 255), rgb(116, 116, 255));
+}
+.banner-text{
+    font-weight: 900;
+    font-size:50px;
+    color: white;
+}
+.banner-text2{
+    font-weight: 900;
+    font-size:45px;
+    color: rgb(9, 76, 121);
+}
+.nav-link{
+    color: white;
+}
+.footer-text{
+    font-weight: 600;
+    color: rgb(21, 82, 163);
+
+}
+.btn{
+    background-image: linear-gradient(to right,tomato, rgb(253, 106, 21));
+}
